@@ -1,2 +1,2 @@
 this file contains feature1 branch1 details
-this is feature branch change
+this is main branch change
